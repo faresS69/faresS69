@@ -1,7 +1,4 @@
-# 👋 Hi there, I'm Fares!
-AKA TSUKII
-
-
+# 👋 Hi there, I'm Fares (aka Tsuki)!
 
 🎂 **23 years old**  
 🌍 **From Algeria**  
