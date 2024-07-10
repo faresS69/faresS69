@@ -52,7 +52,7 @@ Feel free to contact me! I'm always open to new opportunities and collaborations
 
 ---
 
-![Contact](https://www.instagram.com/tsuki_699/) <!-- Add another image or your contact links here -->
+[![Instagram](https://img.shields.io/badge/Instagram-@tsuki_699-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tsuki_699/)
 
 ---
 
