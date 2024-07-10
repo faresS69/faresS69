@@ -52,6 +52,8 @@ Feel free to contact me! I'm always open to new opportunities and collaborations
 
 ---
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fares%20Slimani-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faresslimani01/)
+[![Facebook](https://img.shields.io/badge/Facebook-Mohamed%20Fares%20Slimani-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/mfaresSlimani)
 [![Instagram](https://img.shields.io/badge/Instagram-@tsuki_699-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tsuki_699/)
 
 ---
