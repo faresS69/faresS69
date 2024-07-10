@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Mohamed Fares SLIMANI!
 
-![Profile](https://placekitten.com/800/400) <!-- Add your profile picture here -->
+
 
 🎂 **23 years old**  
 🌍 **From Algeria**  
@@ -52,7 +52,7 @@ Feel free to contact me! I'm always open to new opportunities and collaborations
 
 ---
 
-![Contact](https://placekitten.com/800/300) <!-- Add another image or your contact links here -->
+![Contact](https://www.instagram.com/tsuki_699/) <!-- Add another image or your contact links here -->
 
 ---
 
