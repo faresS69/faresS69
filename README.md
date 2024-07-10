@@ -1,16 +1,45 @@
-## Hi there 👋
+👋 Hi there, I'm Mohamed Fares SLIMANI!
+ <!-- Add your profile picture here -->
 
-<!--
-**faresS69/faresS69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎂 23 years old
+🌍 From Algeria
+🎨 Interested in AI, Game Development, and Infographic Design
 
-Here are some ideas to get you started:
+About Me
+🎓 Systems Engineer
+💻 Flutter Developer
+🤖 Learning AI (Computer Vision, Machine Learning, Deep Learning)
+🎮 Learning Game Development (UE5, Unity, Blender)
+🗄️ Learning Databases
+🛠️ PC Repair and IT Technician
+🧠 Research Enthusiast
+🌐 Language Fanatic - I speak:
+🇺🇸 English
+🇩🇿 Arabic
+🇫🇷 French
+🇹🇷 Turkish
+🇯🇵 Japanese
+My Interests
+🎮 Game Development
+🤖 Artificial Intelligence
+🎨 Infographic Design
+🌟 Always learning new things and having fun!
+Skills
+🔧 PC Repair
+🖥️ IT Technician
+📱 Flutter Development
+🎨 Infographic Design
+🐧 Linux User and Enthusiast - I use Linux and I love it!
+Goals
+💡 Contribute to Research
+🌍 Learn More Languages
+Get in Touch!
+Feel free to contact me! I'm always open to new opportunities and collaborations. Let's connect and create something amazing together! 😊
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <!-- Add another image or your contact links here -->
+
+Looking forward to connecting with you!
+
+Best regards,
+Mohamed Fares SLIMANI
+
