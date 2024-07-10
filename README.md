@@ -12,11 +12,14 @@
 
 - 🎓 **Systems Engineer**
 - 💻 **Flutter Developer**
+- 🧠 **Research Enthusiast**
 - 🤖 **Learning AI** (Computer Vision, Machine Learning, Deep Learning)
 - 🎮 **Learning Game Development** (UE5, Unity, Blender)
+- 🎨 **Infographic Design**
+- 🐧 **Linux User and Enthusiast** - I use Linux and I love it!
+- 🌟 **Always learning new things and having fun!**
 - 🗄️ **Learning Databases**
 - 🛠️ **PC Repair and IT Technician**
-- 🧠 **Research Enthusiast**
 - 🌐 **Language Fanatic** - I speak:
   - 🇺🇸 English
   - 🇩🇿 Arabic
@@ -24,20 +27,6 @@
   - 🇹🇷 Turkish
   - 🇯🇵 Japanese
 
-## My Interests
-
-- 🎮 **Game Development**
-- 🤖 **Artificial Intelligence**
-- 🎨 **Infographic Design**
-- 🌟 **Always learning new things and having fun!**
-
-## Skills
-
-- 🔧 **PC Repair**
-- 🖥️ **IT Technician**
-- 📱 **Flutter Development**
-- 🎨 **Infographic Design**
-- 🐧 **Linux User and Enthusiast** - I use Linux and I love it!
 
 ## Goals
 
