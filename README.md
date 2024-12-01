@@ -21,6 +21,7 @@
 - 🌐 **Language Fanatic** - I speak:
   - 🇺🇸 English
   - 🇩🇿 Arabic
+  - 🇩🇪 German
   - 🇫🇷 French
   - 🇹🇷 Turkish
   - 🇯🇵 Japanese
